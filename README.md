@@ -1,2 +1,1 @@
-# Sistema-de-Mensagem-Interno-IFRR
-# Sistema-de-Mensagem-Interno-IFRR
+# Sistema Eletrônico de Comunicação Interna do IFRR
