@@ -1,0 +1,3 @@
+Ainda sim um usuario poderá aceitar ou recusar um convite de amizade ou grupo e tambem poderá sair do grupo por vontade propria.
+
+A visibilidade do grupo se refere ao seu "nome" e não ao seu conteudo. Um usuario sempre verá um grupo publico na lista de grupos mas não poderá ver um grupo privado.
